@@ -64,7 +64,7 @@ int main()
 } */
 
 //5.wap to print  first n even natural no
-/* #include<stdio.h>
+#include<stdio.h>
 int main()
 {
     int i,n;
@@ -73,4 +73,4 @@ int main()
     for(i=1;2*i<=2*n;i++)
     printf("\n%d",2*i);
     return 0;
-} */
+}
