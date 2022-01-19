@@ -1,2 +1,3 @@
-# welcome fellows to CodeBreakers
-##there are some basic problem in C language which we have already pratice in class
+# Welcome fellow CodeBreakers
+
+This repo contains all the files discused in C lang classes.
