@@ -68,8 +68,8 @@ An integrated development environment (IDE) is software for building application
 
 ### Some famous IDE examples for C :
 Click on the following to download.
-- [Dev C++](https://link-url-here.org)
-- [Code Block](https://link-url-here.org)
+- [Dev C++](https://www.bloodshed.net/)
+- [Code Block](https://www.codeblocks.org/downloads/)
 
 ### How does computer understand programming language ?
 Compliers and interpreters are programs that help convert the high level language (Source Code) into machine codes to be understood by the computers. Computer programs are usually written on high level languages.
@@ -84,6 +84,9 @@ Interpreter translates just one statement of the program at a time into machine 
 An interpreter takes very less time to analyze the source code. However, the overall time to execute the process is much slower.|  Compiler scans the entire program and translates the whole of it into machine code at once.
 Interpreters are used by programming languages like Ruby and Python for example.|Compliers are used by programming languages like C and C++ for example
 
-### Getting Started
 
-First C program  [click here](hello.c)
+
+
+
+
+**Next->** [Getting Started](Getting_Started.md)
