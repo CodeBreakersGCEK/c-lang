@@ -48,13 +48,14 @@ It was strongly integrated with UNIX OS because that time Ken Thompson was worki
 ## Features Of C -lang :
 
 <br/>
+<img src="img/Features-of-C-Programming-Language.jpg"
+     alt="Markdown Monster icon" width=700 />
 
-![](img/adv_disadv_c.png)
+<br/>
 
 ## Advantages and Disadvantages :
 <br/><br/>
-<img src="img/Features-of-C-Programming-Language.jpg"
-     alt="Markdown Monster icon" width=700 />
+![](img/adv_disadv_c.png)
 
 ## What is an IDE ?
 
