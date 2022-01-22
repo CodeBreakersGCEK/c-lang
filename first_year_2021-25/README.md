@@ -49,7 +49,7 @@ It was strongly integrated with UNIX OS because that time Ken Thompson was worki
 
 <br/>
 
-![](/img/adv_disadv_c.png)
+![](img/adv_disadv_c.png)
 
 ## Advantages and Disadvantages :
 <br/><br/>
