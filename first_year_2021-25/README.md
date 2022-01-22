@@ -86,4 +86,4 @@ Interpreters are used by programming languages like Ruby and Python for example.
 
 ### Getting Started
 
-First C program  [click here]()
+First C program  [click here](hello.c)
